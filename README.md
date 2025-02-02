@@ -14,4 +14,4 @@ This ToDo List app allows users to manage their tasks in a clean, intuitive inte
 The goal of this project was to learn about Vue and build something practical that could be used daily.
 
 ## Visual
-![Screenshot](Screenshot%202025-02-01%20184147.png)
+!![Screenshot 2025-02-01 184147](https://github.com/user-attachments/assets/5f10cda3-9f3a-462d-b0b1-bb30b6ddb9ca)
